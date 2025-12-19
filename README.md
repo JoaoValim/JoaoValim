@@ -1,13 +1,13 @@
 <h1 align="center">👋 Olá, eu sou o João Vitor!</h1>
 <p align="center">
-  Estudante de Ciência da Computação | Apaixonado por tecnologia e desafios 🚀
+  Formado em Ciência da Computação | Apaixonado por tecnologia e desafios 🚀
 </p>
 
 ---
 
 ### 📌 Sobre mim
 
-- 🎓 Estudante de Ciência da Computação (último termo)
+- 🎓 Ciência da Computação
 - 💻 Atualmente focado em **desenvolvimento backend com Java**
 - ⚙️ Experiência com: `Java`, `Spring Boot`, `Go`, `Python`, `C++`, `C#`, `JavaScript`, `PostgreSQL`
 
