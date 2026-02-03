@@ -8,7 +8,7 @@
 ### 📌 Sobre mim
 
 - 🎓 Ciência da Computação
-- 💻 Atualmente focado em **desenvolvimento backend com Java**
+- 💻 Atualmente focado em **desenvolvimento backend**
 - ⚙️ Experiência com: `Java`, `Spring Boot`, `Go`, `Python`, `C++`, `C#`, `JavaScript`, `PostgreSQL`
 
 ---
